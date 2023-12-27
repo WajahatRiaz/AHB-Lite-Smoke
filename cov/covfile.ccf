@@ -1,0 +1,10 @@
+set_assign_scoring
+set_branch_scoring
+set_statement_scoring
+select_functional
+set_covergroup -per_instance_default_one
+set_covergroup -new_instance_reporting
+set_expr_coverable_operators -all
+set_expr_coverable_statements -all
+set_toggle_portsonly
+set_toggle_scoring -sv_enum enable_mda

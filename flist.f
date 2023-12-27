@@ -1,0 +1,17 @@
+/home/icdesign/AHB-Lite-Semester-Project/packages/ahb3lite_pkg.sv
+/home/icdesign/AHB-Lite-Semester-Project/rtl/mem.sv
+/home/icdesign/AHB-Lite-Semester-Project/include/interface.sv
+/home/icdesign/AHB-Lite-Semester-Project/include/coverage.sv
+/home/icdesign/AHB-Lite-Semester-Project/include/assertion.sv
+/home/icdesign/AHB-Lite-Semester-Project/test1/test1.sv
+/home/icdesign/AHB-Lite-Semester-Project/test2/test2.sv
+/home/icdesign/AHB-Lite-Semester-Project/test3/test3.sv
+/home/icdesign/AHB-Lite-Semester-Project/test4/test4.sv
+/home/icdesign/AHB-Lite-Semester-Project/test5/test5.sv
+/home/icdesign/AHB-Lite-Semester-Project/test6/test6.sv
+/home/icdesign/AHB-Lite-Semester-Project/test7/test7.sv
+/home/icdesign/AHB-Lite-Semester-Project/test8/test8.sv
+/home/icdesign/AHB-Lite-Semester-Project/test9/test9.sv
+/home/icdesign/AHB-Lite-Semester-Project/test10/test10.sv
+/home/icdesign/AHB-Lite-Semester-Project/test11/test11.sv
+/home/icdesign/AHB-Lite-Semester-Project/test12/test12.sv
